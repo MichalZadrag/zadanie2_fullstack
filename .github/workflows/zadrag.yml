@@ -33,7 +33,7 @@ jobs:
           aws_access_key: ${{ secrets.AWS_ACCESS_KEY }}
           aws_secret_key: ${{ secrets.AWS_SECRET_KEY }}
           application_name: zadanie2_zadrag
-          environment_name: zadanie2_zadrag-env
+          environment_name: zadanie2zadrag-env
           existing_bucket_name: elasticbeanstalk-eu-central-1-566250244840
           version_label: "docker-app-${{ steps.format-time.outputs.replaced }}"
           region: eu-central-1
