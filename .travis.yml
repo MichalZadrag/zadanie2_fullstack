@@ -12,11 +12,11 @@ script:
 
 deploy:
   provider: elasticbeanstalk
-  region: "us-east-2"
-  app: "docker-test"
-  env: "dockertest-env"
-  bucket_name: "elasticbeanstalk-us-east-2-039699603980"
-  bucket_path: "docker-test"
+  region: "eu-central-1"
+  app: "zadanie2_zadrag"
+  env: "zadanie2zadrag-env"
+  bucket_name: "elasticbeanstalk-eu-central-1-566250244840"
+  bucket_path: "zadanie2_zadrag"
   edge: true
   on:
     branch: master
