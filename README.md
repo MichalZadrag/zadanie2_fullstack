@@ -21,6 +21,8 @@ Link do repozytorium DockerHub: https://hub.docker.com/repository/docker/michalz
 
 ![image](https://user-images.githubusercontent.com/52106343/172451500-e0aadd54-febd-49b4-b5e3-6324b655ffb7.png)
 
+![image](https://user-images.githubusercontent.com/52106343/172455042-7483d483-0206-48e4-bb72-cea2610e4e6e.png)
+
 ![image](https://user-images.githubusercontent.com/52106343/172451802-744dd551-0e5f-4fa8-b4b1-270695770b8c.png)
 
 ![image](https://user-images.githubusercontent.com/52106343/172451927-b616beb4-a2fa-47ff-9f1e-2165d72aee27.png)
